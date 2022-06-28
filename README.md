@@ -2,7 +2,7 @@
 
 - This is an assignment from Altcademy that consumes ![ATDAPI](https://altcademy-to-do-list-api.herokuapp.com/)
 
-![link to the app](https://cute-douhua-78e1a1.netlify.app/)
+=> link to the app: https://cute-douhua-78e1a1.netlify.app/
 
 ## Goal: 
 - Learn more about React and Fetch.
