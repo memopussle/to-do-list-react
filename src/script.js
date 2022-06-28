@@ -163,7 +163,6 @@ class ToDoList extends React.Component {
 
   render() {
     const { new_task, tasks, filter } = this.state;
-
     return (
       //Build a frame to-do list
       <div className="container">

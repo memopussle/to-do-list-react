@@ -212,7 +212,6 @@ var ToDoList = function (_React$Component2) {
           tasks = _state.tasks,
           filter = _state.filter;
 
-
       return (
         //Build a frame to-do list
         React.createElement(
