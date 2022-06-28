@@ -1,3 +1,11 @@
+# To Do List - React
+
+- This is an assignment from Altcademy that consumes ![ATDAPI](https://altcademy-to-do-list-api.herokuapp.com/)
+
+## Goal: 
+- Learn more about React and Fetch.
+
+
 #### How to run this project in your local reppo:
 
 ```
