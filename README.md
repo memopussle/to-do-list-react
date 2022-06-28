@@ -1,6 +1,6 @@
 # To Do List - React
 
-- This is an assignment from Altcademy that consumes !(ATDAPI)[https://altcademy-to-do-list-api.herokuapp.com/]
+- This is an assignment from Altcademy that consumes ATDAPI.
 
 => link to the app: https://cute-douhua-78e1a1.netlify.app/
 
